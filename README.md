@@ -1,5 +1,5 @@
 # Rain
-
+<i>Tạo mưa với C++</i><br>
 <h1>HƯỚNG DẪN CÀI ĐẶT</h1><br>
 B1: Giải nén file ra 1 thư mục.(Extract files to a folder)<br>
 B2: Dùng Devc++ tạo 1 project, ở project option thêm -lwinmm vào Linker như hình 1. (Use Devc++ to create a project, set -lwinmm into Linker at project option - image: cai-dat-chuan-11.jpg)<br>
